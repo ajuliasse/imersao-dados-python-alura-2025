@@ -9,7 +9,7 @@ O dashboard é construído com Streamlit e permite que os usuários visualizem m
 ## Projeto Concluído
 
 Você pode acessar o dashboard interativo no seguinte link:
-[Dashboard de Salários na Área de Dados](https://imersao-dados-python-alura-2025-12-08.streamlit.app/)
+[Dashboard de Salários na Área de Dados](https://dashboard-salario-area-dados.streamlit.app/)
 
 ### Funcionalidades
 
