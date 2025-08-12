@@ -6,6 +6,11 @@ Este projeto foi desenvolvido como parte da Imersão Dados com Python, promovida
 
 O dashboard é construído com Streamlit e permite que os usuários visualizem métricas e gráficos sobre salários, utilizando um conjunto de filtros interativos na barra lateral. A análise se concentra em aspectos como salário médio, distribuição salarial, proporção de trabalho remoto e salários por cargo e país.
 
+## Projeto Concluído
+
+Você pode acessar o dashboard interativo no seguinte link:
+[Dashboard de Salários na Área de Dados](https://imersao-dados-python-alura-2025-12-08.streamlit.app/)
+
 ### Funcionalidades
 
 * Métricas Chave: Visualize de forma rápida o salário médio, salário máximo, número total de registros e o cargo mais frequente, todos baseados nos filtros aplicados.
