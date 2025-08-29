@@ -14,7 +14,8 @@ Você pode acessar o dashboard interativo no seguinte link:
 ### Funcionalidades
 
 * Métricas Chave: Visualize de forma rápida o salário médio, salário máximo, número total de registros e o cargo mais frequente, todos baseados nos filtros aplicados.
-* Gráficos Interativos:
+
+#### Gráficos Interativos:
 * Top 10 Cargos por Salário Médio: Um gráfico de barras que mostra os cargos com as maiores médias salariais.
 * Distribuição de Salários: Um histograma que ilustra a frequência de salários em diferentes faixas.
 * Proporção dos Tipos de Trabalho: Um gráfico de pizza que exibe a porcentagem de profissionais que trabalham de forma remota, híbrida ou presencial.
